@@ -53,11 +53,11 @@ body {
 
 /* || Media queries */
 
-@media screen and (min-width:360px) {
+@media screen and (min-width: 360px) {
   body {
     font-size: 4.8rem;
   }
-  
+
   .clock {
     width: 300px;
   }

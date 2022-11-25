@@ -1,5 +1,5 @@
-import {setTime} from "./modules/setTime.mjs";
-import {mode} from "./modules/mode.mjs";
+import { setTime } from "./modules/setTime.mjs";
+import { mode } from "./modules/mode.mjs";
 
 //Run the digital clock
 setTime();

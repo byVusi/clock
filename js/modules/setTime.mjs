@@ -1,4 +1,4 @@
-import {hours, minutes, seconds} from "./getElements.mjs";
+import { hours, minutes, seconds } from "./getElements.mjs";
 
 export function setTime() {
   let date = new Date();
@@ -20,5 +20,4 @@ export function setTime() {
   hours.innerText = setHours;
   minutes.innerText = setMinutes;
   seconds.innerText = setSeconds;
-  
 }
